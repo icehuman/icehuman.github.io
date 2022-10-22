@@ -1,2 +1,0 @@
-# icehuman.github.io
-githubpages
